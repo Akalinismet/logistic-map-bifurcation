@@ -49,8 +49,12 @@ gcc logistic_map_simulator.c -o simulator
 ```
 Enter desired values for iterations, population, and growth rate.
 
-Example Output
-The bifurcation plot shows how population dynamics shift from stability to chaos as r increases.
+## Example Output
+
+The bifurcation plot shows how population dynamics shift from stability to chaos as `r` increases.
+
+![Bifurcation Diagram](bifurcation_diagram.png)
+
 
 Author: İsmet Akalın
 License: MIT
