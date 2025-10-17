@@ -56,6 +56,6 @@ The bifurcation plot shows how population dynamics shift from stability to chaos
 ![Bifurcation Diagram](bifurcation_diagram.png)
 
 
-Author: İsmet Akalın
-License: MIT
+Author: İsmet Akalın,
+License: MIT,
 Language: C & Python
