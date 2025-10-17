@@ -31,21 +31,22 @@ Compile and run:
 ```bash
 gcc logistic_map_bifurcation.c -o bifurcation
 ./bifurcation
-
+```
 This will create bifurcation.csv.
 
 2. Visualize (Python)
 Run:
+```bash
 python plot_bifurcation.py
-
+```
 A bifurcation diagram will appear.
 
 3. Interactive Simulation (C)
 Compile and run:
-
+```bash
 gcc logistic_map_simulator.c -o simulator
 ./simulator
-
+```
 Enter desired values for iterations, population, and growth rate.
 
 Example Output
